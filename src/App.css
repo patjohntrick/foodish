@@ -526,7 +526,8 @@ footer .outro{
   }
   nav ul li{
     text-align: center;
-    margin: 4rem;
+    margin: 4rem 0;
+    width: auto;
   }
   nav .nav-bar{
     display: block;
@@ -548,7 +549,7 @@ footer .outro{
   top: 15%;
   }
   .first-section{
-    margin-top: -40px;
+    margin: -40px auto 2rem auto;
   }
   .first-section .pic-container{
     margin: 0;
@@ -633,5 +634,115 @@ footer .outro{
   }
   footer .footer-content .content:not(:disabled){
     margin: 0 0 1rem 0;
+  }
+}
+@media screen and (max-width: 500px) {
+  .intro .text-container{
+    top: 25%;
+  }
+  .intro .text-container h1{
+    font-size: 2.8em;
+  }
+  .intro .text-container p{
+    font-size: 1em;
+    width: 300px;
+  }
+  .first-section .content, .second-section .content, .fourth-section .content{
+    width: 95%;
+  }
+  .third-section .third-section-content{
+    width: 85%;
+  }
+  .first-section .content h1, .second-section .content h1, .third-section .text-container h1, .fourth-section .text-container h1{
+    width: auto;
+  }
+  .first-section .text-container p, .second-section .text-container p, .third-section .text-container p, .fourth-section .text-container p{
+    width: auto;
+  }
+  .fourth-section .lines{
+    left: 90%;
+    top: -3%;
+    transform: translate(-90%, 3%);
+  }
+  .fourth-section .text-container .category .text{
+    text-align: center;
+  }
+  .fifth-section .text-container h1{
+    width: 300px;
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 1rem;
+  }
+  .fifth-section .text-container{
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 425px){
+  .intro .text-container{
+    width: 320px;
+  }
+  .intro .text-container p{
+    width: 230px;
+  }
+}
+@media  screen and (max-width: 375px) {
+  .intro .text-container p{
+    width: 200px;
+  }
+  .first-section .pic-container, .second-section .pic-container, .fourth-section .pic-container{
+    height: 500px;
+  }
+  .first-section .content, .second-section .content, .fourth-section .content{
+    width: 100%;
+  }
+  .third-section .third-section-content{
+    width: 90%;
+  }
+  .first-section .content h1, .second-section .content h1, .third-section .text-container h1, .fourth-section .text-container h1{
+    width: auto;
+  }
+  .first-section .text-container p, .second-section .text-container p, .third-section .text-container p, .fourth-section .text-container p{
+    width: auto;
+  }
+  .rectangle-style{
+    width: 300px;
+    top: 45%; 
+  }
+  .rectangle-style .rectangle{
+    width: 100%;
+  }
+  .rectangle-inverted-style{
+    width: 300px;
+    top: 45%; 
+  }
+  .rectangle-inverted-style .rectangle{
+    width: 100%;
+  }
+  .first-section{
+    margin-bottom: 4rem;
+  }
+  .third-section .third-section-content .text-pic .wrapper-content{
+    flex-direction: column;
+  }
+  .third-section .third-section-content .text-pic .wrapper-content .pic-content{
+    margin: 0;
+  }
+  .third-section .third-section-content .text-pic .wrapper-content img{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin: 0;
+  }
+  footer .content{
+    width: 98%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .intro .text-container{
+    width: 260px;
+  }
+  .intro .text-container h1{
+    font-size: 2.5em;
+    line-height: 50px;
   }
 }

@@ -15,7 +15,6 @@ function Thirdsection() {
                     <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati.</p>
                 </div>
 
-
                 <div className="text-pic wrapper">
 
                     <div className="first-content wrapper-content">
