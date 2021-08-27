@@ -166,7 +166,7 @@ ul li{
   position: absolute;
   top: -15%;
   left: 60%;
-  /* animation: image-rotate 200s linear infinite; */
+  animation: image-rotate 200s linear infinite;
 }
 @keyframes image-rotate {
   from {
