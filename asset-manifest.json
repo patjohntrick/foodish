@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/foodish/static/css/main.610189e6.chunk.css",
+    "main.js": "/foodish/static/js/main.555adc08.chunk.js",
+    "main.js.map": "/foodish/static/js/main.555adc08.chunk.js.map",
+    "runtime-main.js": "/foodish/static/js/runtime-main.2cb913bd.js",
+    "runtime-main.js.map": "/foodish/static/js/runtime-main.2cb913bd.js.map",
+    "static/js/2.424229d4.chunk.js": "/foodish/static/js/2.424229d4.chunk.js",
+    "static/js/2.424229d4.chunk.js.map": "/foodish/static/js/2.424229d4.chunk.js.map",
+    "index.html": "/foodish/index.html",
+    "static/css/main.610189e6.chunk.css.map": "/foodish/static/css/main.610189e6.chunk.css.map",
+    "static/js/2.424229d4.chunk.js.LICENSE.txt": "/foodish/static/js/2.424229d4.chunk.js.LICENSE.txt",
+    "static/media/Adrien-Olichon.59ea4677.jpg": "/foodish/static/media/Adrien-Olichon.59ea4677.jpg",
+    "static/media/Agung Pandit Wiguna.d05c40cc.jpg": "/foodish/static/media/Agung Pandit Wiguna.d05c40cc.jpg",
+    "static/media/Brooke-Lark.09c7e466.jpg": "/foodish/static/media/Brooke-Lark.09c7e466.jpg",
+    "static/media/Christel Jensen.0c346e14.jpg": "/foodish/static/media/Christel Jensen.0c346e14.jpg",
+    "static/media/DapurMelodi.4fa9f9cc.jpg": "/foodish/static/media/DapurMelodi.4fa9f9cc.jpg",
+    "static/media/Daria-Shevtsova.a028610c.jpg": "/foodish/static/media/Daria-Shevtsova.a028610c.jpg",
+    "static/media/Marta Dzedyshko.b9b13fba.jpg": "/foodish/static/media/Marta Dzedyshko.b9b13fba.jpg",
+    "static/media/cottonbro.d8593ad3.jpg": "/foodish/static/media/cottonbro.d8593ad3.jpg",
+    "static/media/kei.be38a5b9.png": "/foodish/static/media/kei.be38a5b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cb913bd.js",
+    "static/js/2.424229d4.chunk.js",
+    "static/css/main.610189e6.chunk.css",
+    "static/js/main.555adc08.chunk.js"
+  ]
+}
